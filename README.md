@@ -14,5 +14,9 @@ o arquivo `CountryStrike.amx` à pasta `gamemodes`, removendo-o do `filterscript
 
 > Nota: Se encontrar algum problema, por favor, envie um pull request para que possamos corrigi-lo.
 
+## :octopus: Como jogar?
+* Utilize /entrarcs para buscar partidas.
+* Utilize /saircs para cancelar a busca por partidas.
+
 ## :clown_face: Imagens
 <img src="img/Lobby.png" width=300 height=300>
